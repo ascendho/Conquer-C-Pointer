@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chap01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array-Debug-d7da4dd3524eba9433bb.json",
+					"name" : "array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "array2.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array2.c-Debug-07b230105c409ca54e18.json",
+					"name" : "array2.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "get_word::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_word-Debug-233230d70b99235bc71d.json",
+					"name" : "get_word",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "get_xy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_xy-Debug-40de9cd49c4d9be2c786.json",
+					"name" : "get_xy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "get_xy_bad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_xy_bad-Debug-5c3f395042bb2fb42c72.json",
+					"name" : "get_xy_bad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointer-Debug-dd9ab9df6953b52bce76.json",
+					"name" : "pointer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointer_calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointer_calc-Debug-310eb1ceac1124b75a06.json",
+					"name" : "pointer_calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sizeof::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sizeof-Debug-37482b4d6e5a2d7cc031.json",
+					"name" : "sizeof",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vla::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vla-Debug-0a58f8387304a7aa1231.json",
+					"name" : "vla",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug",
+		"source" : "D:/data/Conquer_C_Pointer/REPO/chap01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

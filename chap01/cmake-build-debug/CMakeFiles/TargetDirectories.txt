@@ -1,0 +1,11 @@
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/array.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/array2.c.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/vla.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/get_word.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/pointer.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/pointer_calc.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/sizeof.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/get_xy.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/get_xy_bad.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data/Conquer_C_Pointer/REPO/chap01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

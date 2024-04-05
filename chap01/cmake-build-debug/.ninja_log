@@ -1,0 +1,5 @@
+# ninja log v5
+1	104	7338519408285625	CMakeFiles/pointer.dir/pointer.c.obj	94915c6e19ac50f0
+106	289	7338519410095738	pointer.exe	94262d5fb51aaf1
+1	692	7339827487956150	CMakeFiles/get_word.dir/get_word.c.obj	5b44b8130d92db3b
+693	1384	7339827494831087	get_word.exe	630a263f42ae4682
