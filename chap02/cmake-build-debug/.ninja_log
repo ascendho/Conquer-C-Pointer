@@ -1,0 +1,19 @@
+# ninja log v5
+2	93	7339853653652180	CMakeFiles/chap02.dir/main.c.obj	8801bc1f153af009
+96	288	7342472331902673	byteorder.exe	7e3bee5df2f04a51
+97	271	7340694750686884	print_address.exe	515611f0d0bc9e18
+95	292	7339853655595142	chap02.exe	62718e96be589c09
+2	96	7340693703527273	CMakeFiles/func_ptr.dir/func_ptr.c.obj	f20d09aaafcd007a
+115	299	7341939792356889	tiny_printf.exe	4ce61e29386420e4
+97	294	7340693705479818	func_ptr.exe	4b1f6c1a20d307be
+0	96	7340694748981268	CMakeFiles/print_address.dir/print_address.c.obj	a8babd086e077eb5
+1	114	7341939790542992	CMakeFiles/tiny_printf.dir/tiny_printf.c.obj	7196546504e73a8a
+1	105	7341942401071790	CMakeFiles/permutation.dir/permutation.c.obj	4088d39bf7e84a50
+107	303	7341942403035311	permutation.exe	31e8f9382efa55b3
+0	120	7342469801354190	CMakeFiles/alignment.dir/alignment.c.obj	ef5cd1f90e0014a
+122	336	7342469803467908	alignment.exe	fdf7c9fb2048af1c
+1	90	7342471741496942	CMakeFiles/auto.dir/auto.c.obj	9076741f58ee1c8b
+91	266	7342471743226145	auto.exe	15b25a405e1ca3ef
+1	94	7342472329988895	CMakeFiles/byteorder.dir/byteorder.c.obj	54561b002aa70fd1
+0	93	7342473257818757	CMakeFiles/vla2.dir/vla2.c.obj	f6d535b6574a7417
+95	271	7342473259548455	vla2.exe	cc076e988eede1a0

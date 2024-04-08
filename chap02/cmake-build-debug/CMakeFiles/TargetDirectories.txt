@@ -1,0 +1,12 @@
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/vmtest.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/func_ptr.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/print_address.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/tiny_printf.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/permutation.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/auto.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/alignment.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/buffer_overflow.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/byteorder.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/vla2.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data/Conquer_C_Pointer/REPO/chap02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
